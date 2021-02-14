@@ -1,0 +1,90 @@
+# RCC 自動生成用テンプレート
+# 【書式】 filename: タイトル,姓 名,GitHubID
+# （例）1kai: 1回生総括,RCC 太郎,ritscc-master
+#
+# 回生別のファイル名は変更しないでください
+# それ以外のファイル名は先頭に数字を付けることで、順番を制御できます
+# 数字が一桁の場合は先頭に0をつけてください．
+---
+hajimeni: はじめに
+soukatsu:
+  zentai:
+    01_zentai: 後期活動総括,原 佑馬,Hara-Yuma
+    02_unei: 運営総括,西見 元希,3to5thpower
+    03_project: プロジェクト活動総括,八木田 裕伍,ygkn
+    04_gakuensai: 学園祭総括,斎藤 竜也,tatsuya999
+    05_kaishi: 会誌総括,堀田 隆成,Drunknow
+  1kai: 1回生総括,川崎 秀昌,lufeee
+  2kai: 2回生総括,奥川 莞多,o-kanta
+  3kai: 3回生総括,髙山 紗世梨,Sayori13
+
+  kaikei:
+    01_zaimu: 財務総括,小柳 雅文,Koyanagi-Masafumi
+    02_zaisei: 財政総括,田邉 雄士,Tanabe-616
+    03_hackathon: ハッカソン総括,田邉 雄士,Tanabe-616
+  kensui:
+    01_zentai: 全体総括,八木田 裕伍,ygkn
+    02_project: プロジェクト活動総括,中尾 龍矢,Ta-2
+    03_LT: LT総括,深田 紘希,fukada6280
+  syogai:
+    01_zentai: 全体総括,阿部 竜也,averak
+    02_adcale: アドカレ総括,坪田 幸輝,tsubopi
+    03_kyokukaigi: 局会議総括,駒谷 亮叡,komasandesu
+    04_twitter: 会公式Twitter総括,星名 藍乃介,Ran350
+    05_web: Webサイト総括,星名 藍乃介,Ran350
+  system:
+    01_zentai: 全体総括,斎藤 竜也,tatsuya999
+    02_kyokukaigi: 局会議総括,桐井 優実,yuyueuph
+    03_study: 勉強会総括,宇佐 基史,thetaleisalsowhite
+    04_server: サーバ管理総括,山本 京介,kyochn
+    05_hikitsugi: 引き継ぎ総括,川崎 秀昌,lufeee
+    06_shinkyokuin: 新局員総括,田尻 聖奈,SAINE-TZ
+  soumu:
+    01_zentai: 全体総括,堀田 隆成,Drunknow
+    02_huki: 風紀業務総括,堀田 隆成,Drunknow
+    03_souzi: 掃除業務総括,堀田 隆成,Drunknow
+    04_syoki: 書紀業務総括,堀田 隆成,Drunknow
+    05_kainaigyozi: 会内行事総括,奥川 莞多,o-kanta
+    06_bihin: 備品業務総括,奥川 莞多,o-kanta
+houshin:
+  zentai:
+    01_zentai: 前期活動方針,深田 紘希,fukada6280
+    02_unei: 運営方針,斎藤 竜也,tatsuya999
+    03_sinkan: 新歓方針,西村 雅貴,Husky21st
+    04_welcom: Welcomeゼミ方針,田尻 聖奈,SAINE-TZ
+    05_project: プロジェクト活動方針,Park Jooinh,RosesAndViolets
+    06_ritumeihouse: 立命の家方針,山本 京介,kyochn
+    07_kaishi: 会誌方針,川崎 秀昌,lufeee
+    08_gakuensai: 学園祭方針,駒谷 亮叡,komasandesu
+    09_obog: OBOG会方針,阿部 竜也,averak
+
+  2kai: 新2回生方針,西村 雅貴,Husky21st
+  3kai: 新3回生方針,桐井 優実,yuyueuph
+
+  kaikei:
+    01_zentai: 全体方針,佐久間 智也,CityBear3
+    02_zaimu: 財務方針方針,佐久間 智也,CityBear3
+    03_zaisei: 財政方針,佐久間 智也,CityBear3
+    04_hackathon: ハッカソン方針,佐田 淳史,ultrasupara-jump
+  kensui:
+    01_zentai: 全体方針,Park Jooinh,RosesAndViolets
+    02_project: プロジェクト活動方針,Park Jooinh,RosesAndViolets
+    03_LT: LT方針,Park Jooinh,RosesAndViolets
+  syogai:
+    01_zentai: 全体方針,駒谷 亮叡,komasandesu
+    02_kyokukaigi: 局会議方針,阿部 竜也,averak
+    03_twitter: 会公式Twitter方針,星名 藍乃介,Ran350
+    04_web: Webサイト総括,坪田 幸輝,tsubopi
+  system:
+    01_zentai: 全体方針,山本 京介,kyochn
+    02_kyokukaigi: 局会議方針,川崎 秀昌,lufeee
+    03_study: 勉強会方針,桐井 優実,yuyueuph
+    04_server: サーバ管理方針,宇佐 基史,thetaleisalsowhite
+    05_hikitsugi: 引き継ぎ方針,田尻 聖奈,SAINE-TZ
+  soumu:
+    01_zentai: 全体方針,西村 雅貴,Husky21st
+    02_huki: 風紀業務方針,西村 雅貴,Husky21st
+    03_souzi: 掃除業務方針,西村 雅貴,Husky21st
+    04_syoki: 書紀業務方針,西村 雅貴,Husky21st
+    05_kainaigyozi: 会内行事方針,奥川 莞多,o-kanta
+    06_bihin: 備品業務方針,奥川 莞多,o-kanta
